@@ -5,3 +5,4 @@ malerkotla
 "ght"
 DAV
 sohrab
+univerty punjabi
